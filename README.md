@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Trying to learn how to use copilot with R and Python
+
 <!--
 **sul48/sul48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
